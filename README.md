@@ -8,7 +8,7 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 
 ## Identificação
 
-- Nome completo:
-- RA:
-- Turma: (quarta ou quinta)
-- O que espero aprender:
+- Nome completo: Wallyson Batista Oliveira
+- RA:926113982
+- Turma:4
+- O que espero aprender: aprender a criar um site de avaliações
