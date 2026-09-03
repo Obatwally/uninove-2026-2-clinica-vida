@@ -8,4 +8,4 @@ sequenceDiagram
     N->>S: conexão TCP e TLS na porta 443
     N->>S: GET /consultas/agendar
     S-->>N: 200 OK, HTML da agenda
-```
+``` 186.251.39.123
