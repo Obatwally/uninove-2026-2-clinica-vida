@@ -9,5 +9,9 @@ sequenceDiagram
     N->>S: GET /consultas/agendar
     S-->>N: 200 OK, HTML da agenda
 ```
+
+## Evidência do DNS
+
+```
 186.251.39.123
-S-->>N: 200 OK, HTML da agenda
+```
