@@ -10,3 +10,4 @@ sequenceDiagram
     S-->>N: 200 OK, HTML da agenda
 ```
 186.251.39.123
+S-->>N: 200 OK, HTML da agenda
