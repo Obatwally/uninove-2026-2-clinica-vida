@@ -21,3 +21,6 @@ sequenceDiagram
 | gtm.js | GET | 304 |
 | index.497f13d13.css | GET | 200 |
 | x-icon.png | GET | 200 |
+
+## Por que HTTPS
+O formulário de agendamento da Clínica Vida+ precisa de HTTPS porque ele carrega dados pessoais sensíveis do paciente, como CPF, telefone e data de nascimento. Sem criptografia, esses dados trafegariam em texto puro pela rede, e qualquer pessoa conectada à mesma rede Wi-Fi ou ao mesmo cabo poderia ler essas informações. O HTTPS embrulha o HTTP dentro de um túnel TLS, garantindo sigilo do conteúdo, integridade contra alterações no caminho e a confirmação, pelo certificado digital, de que o paciente está realmente se conectando ao servidor da clínica e não a um impostor
